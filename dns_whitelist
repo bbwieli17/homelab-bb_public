@@ -1,3 +1,4 @@
+*.amazon.pl
 *.stripe.com
 *.stripe.network
 ^cdns..gigya.com

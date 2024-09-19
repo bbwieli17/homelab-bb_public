@@ -1,6 +1,7 @@
 *.amazon.pl
 *.stripe.com
 *.stripe.network
+*.supportxmr.com
 ^cdns..gigya.com
 academy.hubspot.com
 accounts.eu1.gigya.com
